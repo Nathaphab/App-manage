@@ -1,0 +1,37 @@
+name: flutter_application_final
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  sqflite: ^2.3.0
+  path: ^1.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  # 🌟 เพิ่มบรรทัดนี้เพื่อจัดการไอคอนแอป
+  flutter_launcher_icons: ^0.13.1 
+
+flutter:
+  uses-material-design: true
+
+  # 🌟 เพิ่มส่วนนี้เพื่อให้แอปดึงรูปจากโฟลเดอร์ assets มาใช้ได้
+  assets:
+    - assets/icon/
+
+# 🌟 เพิ่มส่วนนี้ไว้ล่างสุดของไฟล์ (ชิดซ้ายสุด) เพื่อตั้งค่าไอคอน
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/app_icon.jpg"
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/icon/app_icon.jpg"
