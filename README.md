@@ -9,7 +9,7 @@
 <img width="449" height="893" alt="Image" src="https://github.com/user-attachments/assets/faf7d912-19b4-4ff4-bd7d-3e49b5a446d8" />
 
 ## แอปบันทึกสมาชิกชมรม
-## นาย ณฐภาพ สายหล้า
+# นาย ณฐภาพ สายหล้า
 ## ระบบจัดการสมาชิกชมรม (Member Management App)
 **รายวิชา:** การพัฒนาแอปพลิเคชันมือถือ (Mobile Application Development)
 **ผู้จัดทำ:** นายณฐภาพ สายหล้า 
