@@ -1,4 +1,6 @@
 # icon app
-<img width="107" height="112" alt="Image" src="https://github.com/user-attachments/assets/b7d01eb4-77a2-49ad-bbb9-067f46a1e032" />
+<img width="107" height="106" alt="Image" src="https://github.com/user-attachments/assets/a0907330-dde8-4932-907d-260c9a8fbdb8" />
 # Within the application
-<img width="449" height="887" alt="Image" src="https://github.com/user-attachments/assets/e30db913-534f-46df-93c0-7a91a0bdd2e0" />
+<img width="441" height="881" alt="Image" src="https://github.com/user-attachments/assets/a5e7b586-3bb5-429e-896f-15c3d2bbc12c" />
+
+<img width="432" height="888" alt="Image" src="https://github.com/user-attachments/assets/52f378e9-aa48-4c63-80be-699e26a7c113" />
